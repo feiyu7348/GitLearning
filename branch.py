@@ -74,7 +74,8 @@ def check_ipv4(ip_str: str) -> bool:
 
 print(check_ipv4("1.1.1.1"))
 
-def view_dict(cmd: Dict[str, List[str]]={}) -> None:
+
+def view_dict(cmd: Dict[str, List[str]] = {}) -> None:
     # 将传入的Dict 按照规范写入文件
     # 然后根据规定格式从文件读取
     self.write_file(cmd)
