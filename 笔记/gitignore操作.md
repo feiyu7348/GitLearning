@@ -36,6 +36,9 @@ git add .
 git status
 ```
 
+若文件已经在Github仓库中，删除本地缓存以后，需要拉取最新的版本，`git pull --rebase`一下，不能直接push，否则会报错
+![alt text](1726550177285.jpg)
+
 ### 2. 已被忽略的加入跟踪
 
 已经被.gitignore忽略的文件，想要重新加入跟踪，先修改.gitignore文件，然后使用如下命令：
