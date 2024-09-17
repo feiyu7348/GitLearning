@@ -10,18 +10,15 @@
    `git remote -v`
 
 4. 拉取更新的 branches 和 commits
-
    `git fetch upstream`
 
 5. Checkout 本地分支
    `git checkout master`
 
 6. 合并
-
    `git merge upstream/master`
 
 7. 提交
-
    `git push origin master`
 
 ## 链接地址
