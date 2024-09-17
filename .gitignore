@@ -1,4 +1,11 @@
 /.idea/
+<<<<<<< HEAD
 /target/
+=======
+<<<<<<< HEAD
+/target/
+=======
+>>>>>>> 1459d4c (.gitignore文件)
+>>>>>>> f590c93 (.gitignore文件)
 /.history/
 /.venv/

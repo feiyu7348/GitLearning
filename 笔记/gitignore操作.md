@@ -31,7 +31,7 @@ git check-ignore -v 文件名
 **解决方法**：先修改.gitignore，然后再使用如下命令，将修改后的.gitignore文件提交到仓库。
 
 ```shell
-git rm -r --cached.
+git rm -r --cached <文件路劲>
 git add .
 git status
 ```
