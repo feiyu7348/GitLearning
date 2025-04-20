@@ -23,3 +23,4 @@
 - core.autocrlf [笔记](https://github.com/feiyu7348/GitLearn/blob/main/%E7%AC%94%E8%AE%B0/core.autocrlf.md)
 - cherry-pick [笔记](https://github.com/feiyu7348/GitLearn/blob/main/%E7%AC%94%E8%AE%B0/cherry-pick.md)
 - stash [笔记](https://github.com/feiyu7348/GitLearn/blob/main/%E7%AC%94%E8%AE%B0/%E6%9A%82%E5%AD%98stash.md)
+- revert
