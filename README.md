@@ -10,7 +10,7 @@
 - 别名 [笔记](https://github.com/feiyu7348/GitLearn/blob/main/%E7%AC%94%E8%AE%B0/%E4%BF%AE%E6%94%B9%E5%88%AB%E5%90%8D.md)
 - 合并commit  [笔记](https://github.com/feiyu7348/GitLearn/blob/main/%E7%AC%94%E8%AE%B0/%E5%90%88%E5%B9%B6commit.md)
 - commit [笔记](https://github.com/feiyu7348/GitLearn/blob/main/%E7%AC%94%E8%AE%B0/commit%E8%AF%A6%E8%A7%A3.md)
-- 配置信息 [笔记](https://github.com/feiyu7348/GitLearn/blob/main/%E7%AC%94%E8%AE%B0/%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF.md) 
+- 配置信息 [笔记](https://github.com/feiyu7348/GitLearn/blob/main/%E7%AC%94%E8%AE%B0/%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF.md)
 - 撤销操作 [笔记](https://github.com/feiyu7348/GitLearn/blob/main/%E7%AC%94%E8%AE%B0/%E6%92%A4%E9%94%80%E6%93%8D%E4%BD%9C.md)
 - 日志 [笔记](https://github.com/feiyu7348/GitLearn/blob/main/%E7%AC%94%E8%AE%B0/%E6%97%A5%E5%BF%97.md)
 - rebase [笔记](https://github.com/feiyu7348/GitLearn/blob/main/%E7%AC%94%E8%AE%B0/rebase%E6%93%8D%E4%BD%9C.md)
@@ -23,4 +23,4 @@
 - core.autocrlf [笔记](https://github.com/feiyu7348/GitLearn/blob/main/%E7%AC%94%E8%AE%B0/core.autocrlf.md)
 - cherry-pick [笔记](https://github.com/feiyu7348/GitLearn/blob/main/%E7%AC%94%E8%AE%B0/cherry-pick.md)
 - stash [笔记](https://github.com/feiyu7348/GitLearn/blob/main/%E7%AC%94%E8%AE%B0/%E6%9A%82%E5%AD%98stash.md)
-- revert
+- revert [笔记](https://github.com/feiyu7348/GitLearn/blob/main/%E7%AC%94%E8%AE%B0/revert.md)
